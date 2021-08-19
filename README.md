@@ -1,13 +1,11 @@
 # Dependencies
-* `just` command runner https://github.com/casey/just
-* `watchexec` to run commands in response to file modifications
 * `yarn` as package manager https://yarnpkg.com/
 * `nodejs`
 
 ## Typescript projects
-* [chrono](ts-chrono) - date formatting
-* [logger](ts-logger) - configurable logger
-* [parser-combinator](ts-parser-combinator) - parser combinators
+* [chrono](ts-chrono) - date formatting library, built with [pareser-combinator](ts-parser-combinator)
+* [logger](ts-logger) - configurable logger 
+* [parser-combinator](ts-parser-combinator) - parser combinators library
 * [reactive](ts-reactive) - reactive programming / incremental computation primitives (Observable/Cell)
 * [tester](ts-tester) - test runner for Typescript
 * [utils-node](ts-utils-node) - utils for Node.js, including simple http server, CLI app builder, fs transactions etc.
