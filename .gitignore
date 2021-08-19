@@ -1,0 +1,10 @@
+target/
+node_modules/
+dist/
+.log/
+.eslintcache
+*.tsbuildinfo
+
+*.pkg.tar.zst
+
+PKGBUILD
