@@ -3,7 +3,7 @@
 * `nodejs`
 
 ## Typescript projects
-* [chrono](ts-chrono) - date formatting library, built with [pareser-combinator](ts-parser-combinator)
+* [chrono](ts-chrono) - date formatting library, built with [parser-combinator](ts-parser-combinator)
 * [logger](ts-logger) - configurable logger 
 * [parser-combinator](ts-parser-combinator) - parser combinators library
 * [reactive](ts-reactive) - reactive programming / incremental computation primitives (Observable/Cell)
