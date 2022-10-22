@@ -8,7 +8,8 @@
     "ts-reactive",
     "ts-tester",
     "ts-parser-combinator",
-    "ts-web-platform"
+    "ts-web-platform",
+    "v-js"
   ],
   "scripts": {
     "compiler-errors": "tsc --noEmit --project tsconfig.json",

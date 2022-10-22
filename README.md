@@ -3,6 +3,7 @@
 * `nodejs`
 
 ## Typescript projects
+* [v-js](v-js) - library for progressive enhancement of Web UI
 * [chrono](ts-chrono) - date formatting library, built with [parser-combinator](ts-parser-combinator)
 * [logger](ts-logger) - configurable logger 
 * [parser-combinator](ts-parser-combinator) - parser combinators library

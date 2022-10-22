@@ -1,0 +1,11 @@
+{
+  "name": "@v/js",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A library for progressive enhancement of Web UI",
+  "main": "src/index.ts",
+  "dependencies": {
+    "a11y-dialog": "^7.3.0"
+  }
+}
